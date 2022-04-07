@@ -1,0 +1,10 @@
+Our project exists out of 3 files:
+
+1. pre process
+in this notebook we preprocess the raw data files form the uk police force in order to be used by our models
+
+2. Ridge Regression
+in this notebook we made the ridge regression model. The dataset used can be found in the Data folder in this github repository
+
+3. SARIMA
+in this notebook we made the SARIMA model. The dataset used can be found in the Data folder in this github repository
